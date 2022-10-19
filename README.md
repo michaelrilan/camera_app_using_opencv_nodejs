@@ -1,2 +1,2 @@
-# camera_app_using_opencv_nodejs
-This application can capture image everytime it detects movement and it will send a payload to the nodejs as base64 and the nodejs API will convert it into blob before it save in mysql database
+# motion_detector_using_python_opencv
+This program can detect the motion using opencv python and each time the system detects movement, the system will send a payload to the node.js API and will save the date, time and the image captured to the database
